@@ -1,3 +1,5 @@
+package numbers
+
 import java.util.*
 
 class FibonacciSeries {
