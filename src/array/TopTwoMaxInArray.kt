@@ -10,12 +10,6 @@ package array
  * Output: Second largest = 4
  */
 
-
-fun main() {
-    val arr = intArrayOf(1, 5, 2, 4, 3)
-    findTopTwoMax(arr)
-}
-
 fun findTopTwoMax(arr: IntArray) {
     var max1 = arr[0]
     var max2 = arr[0]
@@ -31,4 +25,9 @@ fun findTopTwoMax(arr: IntArray) {
 
     println("Max1: $max1")
     println("Max2: $max2")
+}
+
+fun main() {
+    val arr = intArrayOf(1, 5, 2, 4, 3)
+    findTopTwoMax(arr)
 }

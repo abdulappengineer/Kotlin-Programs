@@ -10,12 +10,6 @@ package array
  * In this example, (9, 11), (7, 13) and (8, 12) are such pairs whose sum is 20.
  */
 
-fun main() {
-    val arr = intArrayOf(1, 5, 7, -1, 5)
-    val num = 6
-    findPairs(arr, num)
-}
-
 fun findPairs(arr: IntArray, num: Int) {
     for (i in arr.indices) {
         for (j in i + 1 until arr.size) {
@@ -25,3 +19,10 @@ fun findPairs(arr: IntArray, num: Int) {
         }
     }
 }
+
+fun main() {
+    val arr = intArrayOf(1, 5, 7, -1, 5)
+    val num = 6
+    findPairs(arr, num)
+}
+
