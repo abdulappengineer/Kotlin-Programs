@@ -5,7 +5,7 @@ package array
  */
 
 /**
- * Input: 1, 2, 3, 2, 1, 3, 4, 5, 4
+ * Input: {1, 2, 3, 2, 1, 3, 4, 5, 4}
  * Output: 1 = 2 times.
  * 2 = 2 times.
  * 3 = 2 times.

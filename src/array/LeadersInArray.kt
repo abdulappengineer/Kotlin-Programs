@@ -13,7 +13,7 @@ package array
  */
 
 /**
- * Input: arr = 16, 17, 4, 3, 5,
+ * Input: {16, 17, 4, 3, 5}
  * Output: 17, 5, 2
  *
  * Input: arr = 1, 2, 3, 4, 5, 2

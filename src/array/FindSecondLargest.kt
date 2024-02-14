@@ -5,7 +5,7 @@ package array
  */
 
 /**
- * Input: = 12, 35, 1, 10, 34, 1
+ * Input:  {12, 35, 1, 10, 34, 1}
  * Output: Second largest element is 34
  */
 

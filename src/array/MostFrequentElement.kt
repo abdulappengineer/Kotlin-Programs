@@ -5,8 +5,8 @@ package array
  */
 
 /**
- * Input : arr = 1, 3, 2, 1, 4, 1
- * Output : 1
+ * Input: {1, 3, 2, 1, 4, 1}
+ * Output: 1
  */
 
 fun findMostFrequentElement(arr: IntArray, n: Int): Int {

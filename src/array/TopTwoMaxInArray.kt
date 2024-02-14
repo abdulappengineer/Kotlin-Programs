@@ -5,7 +5,7 @@ package array
  */
 
 /**
- * Input: 1, 5, 2, 4, 3
+ * Input: {1, 5, 2, 4, 3}
  * Output: First largest = 5
  * Output: Second largest = 4
  */

@@ -5,7 +5,7 @@ package array
  */
 
 /**
- * Input array: 12, 0, 7, 0, 8, 0, 3
+ * Input: {12, 0, 7, 0, 8, 0, 3}
  * Number: 26
  * Output: Continuous subarray: 5 11 25
  */

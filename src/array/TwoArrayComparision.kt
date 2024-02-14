@@ -5,9 +5,9 @@ package array
  */
 
 /**
- * Input  :  = 1, 2, 3, 4, 5
- *           = 1, 2, 3, 4, 5
- * Output : Yes
+ * Input:   {1, 2, 3, 4, 5}
+ *          {1, 2, 3, 4, 5}
+ * Output: Yes
  */
 
 fun areArraysEqual(arr1: IntArray, arr2: IntArray): Boolean {

@@ -5,7 +5,7 @@ package array
  */
 
 /**
- * Input :  1, 3, 3, 4, 5
+ * Input :  {1, 3, 3, 4, 5}
  * Output : 15
  */
 

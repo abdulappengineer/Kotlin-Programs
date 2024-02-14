@@ -5,7 +5,7 @@ package array
  */
 
 /**
- * Input: arr[] = {1, 2, 3, 4, 5}
+ * Input: {1, 2, 3, 4, 5}
  * Output: Maximum is: 5
  * Minimum is: 1
  */

@@ -5,8 +5,8 @@ package array
  */
 
 /**
- * Input :  arr = {1, 2, 0, 4, 3, 0, 5, 0};
- * Output :  1, 2, 4, 3, 5, 0, 0, 0
+ * Input:  {1, 2, 0, 4, 3, 0, 5, 0};
+ * Output:  1, 2, 4, 3, 5, 0, 0, 0
  */
 
 fun moveZeroesToEnd(arr: IntArray) {

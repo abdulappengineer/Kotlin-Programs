@@ -9,7 +9,26 @@ import java.util.Scanner
  * For example 2, 3, 5, 7, 11,….. are prime numbers.
  */
 
+// Method 2:
+fun isPrime(number: Int): Boolean {
+    for (i in 2 until number) {
+        if (number % i == 0) {
+            return false
+        }
+    }
+    return true
+}
 fun main() {
+    val number = 7
+    if (isPrime(number)) {
+        println("$number is prime")
+    } else {
+        println("$number is not prime")
+    }
+}
+
+//Method 2
+/*fun main() {
     val scanner = Scanner(System.`in`)
     print("Enter the number: ")
     val num = scanner.nextInt()
@@ -30,4 +49,5 @@ fun main() {
     } else {
         println("$num is not prime")
     }
-}
+}*/
+
