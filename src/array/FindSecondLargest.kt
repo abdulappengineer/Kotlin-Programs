@@ -5,8 +5,15 @@ package array
  */
 
 /**
- * Input:  {12, 35, 1, 10, 34, 1}
- * Output: Second largest element is 34
+ * Input: arr[] = {12, 35, 1, 10, 34, 1}
+ * Output: The second-largest element is 34.
+ * Explanation: The largest element of the array is 35 and the second-largest element is 34
+ */
+
+/**
+ * Input: arr[] = {10, 5, 10}
+ * Output: The second-largest element is 5.
+ * Explanation: The largest element of the array is 10 and the second-largest element is 5
  */
 
 fun findSecondLargest(arr: IntArray): Int {
