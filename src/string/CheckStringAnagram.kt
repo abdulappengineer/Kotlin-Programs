@@ -13,7 +13,45 @@ package string
  * Output: “Not Anagram”
  */
 
-fun areAnagrams(s1: String, s2: String): Boolean {
+// Method: 1
+fun checkAnagram(str1: String, str2: String): Boolean {
+    if (str1.length != str2.length) {
+        return false
+    }
+
+    var found = 0
+    //var notFound = 1
+
+    for (i in str1.indices) {
+        found = 0
+        for (j in str2.indices) {
+            if (str1[i] == str2[j]) {
+                found = 1
+                break
+            }
+        }
+
+        if (found == 0) {
+           // notFound = 1
+            break
+        }
+    }
+
+    return found == 1
+}
+
+fun main() {
+    val str1 = "listen"
+    val str2 = "silent"
+    val isAnagram = checkAnagram(str1, str2)
+    if (isAnagram) {
+        println("$str1 and $str2 are anagrams.")
+    } else {
+        println("$str1 and $str2 are not anagrams.")
+    }
+}
+
+/*fun areAnagrams(s1: String, s2: String): Boolean {
     // Remove spaces and convert to lowercase for case-insensitive comparison
     val str1 = s1.replace(" ", ""). toLowerCase()
     val str2 = s2.replace(" ", ""). toLowerCase()
@@ -64,4 +102,4 @@ fun main() {
     } else {
         println("Given strings are not anagrams")
     }
-}
+}*/

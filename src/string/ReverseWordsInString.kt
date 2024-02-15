@@ -5,12 +5,12 @@ package string
  */
 
 /**
- * Input:  My Name Is Abdul Khalid
- * Output:  Khalid Abdul Is Name My
+ * Input:  one two three four
+ * Output:  four three two one
  */
 
 fun main() {
-    val str = "My Name Is Abdul Khalid"
+    val str = "one two three four"
     var revStr = ""
     val arr = str.split(" ")
 
