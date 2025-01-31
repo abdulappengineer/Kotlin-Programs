@@ -5,3 +5,7 @@ https://shirsh94.medium.com/top-100-interview-programming-questions-that-asks-ma
 Android-Cheat-sheet
 
 https://github.com/anitaa1990/Android-Cheat-sheet/tree/master
+
+android-interview-questions
+
+https://github.com/amitshekhariitbhu/android-interview-questions
