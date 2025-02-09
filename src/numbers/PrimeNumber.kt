@@ -9,7 +9,7 @@ import java.util.Scanner
  * For example 2, 3, 5, 7, 11,….. are prime numbers.
  */
 
-// Method 2:
+// Method 1:
 fun isPrime(number: Int): Boolean {
     for (i in 2 until number) {
         if (number % i == 0) {
