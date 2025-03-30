@@ -1,4 +1,4 @@
-# 📌 Top Android & Java Coding Interview Questions  
+# Top Android & Java Coding Interview Questions  
 
 ## 🔹 Android Development Interview Resources  
 ### 1️⃣ [Top Most Asked Coding Questions in Android Interviews](https://medium.com/@anandgaur2207/top-most-asked-coding-questions-in-android-interviews-289ccb9c58d2)  
@@ -23,6 +23,6 @@ Essential Java logical programming questions for interviews.
 ### 7️⃣ [Program Logics in Java](https://mindmajix.com/program-logics-in-java)  
 A guide to understanding key Java programming logics.  
 
-## 📌 Stay Prepared & Keep Coding! 🚀  
+##  Stay Prepared & Keep Coding! 
 
-Would you like any further modifications or additional resources added? 😊
+Would you like any further modifications or additional resources added? 
