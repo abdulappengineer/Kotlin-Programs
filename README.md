@@ -1,3 +1,7 @@
+Top 10 Interview Questions and Answers for Senior Android Developers
+
+https://medium.com/@anandgaur2207/top-10-interview-questions-and-answers-for-senior-android-developers-53e31e7889fe
+
 Top 100 Interview Programming questions, that asks many times:
 
 https://shirsh94.medium.com/top-100-interview-programming-questions-that-asks-many-times-5c5bf36449ab
